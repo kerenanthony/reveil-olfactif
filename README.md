@@ -1,2 +1,2 @@
 # reveil-olfactif
-reveil qui diffuse des parfum pour réveiller
+reveil qui diffuse des parfums pour réveiller
